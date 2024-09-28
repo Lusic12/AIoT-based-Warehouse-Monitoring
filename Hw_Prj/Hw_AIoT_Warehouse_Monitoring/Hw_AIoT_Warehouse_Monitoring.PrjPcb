@@ -220,6 +220,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SWYCXWPC
 
 [Document11]
+DocumentPath=..\..\..\..\..\..\Downloads\Copy of SHT31-DIS-B2.5KS.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OWXLYXVM
+
+[Document12]
 DocumentPath=Hw_Lib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,23 +252,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTLXKYZQ
-
-[Document12]
-DocumentPath=..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa30068.43341.rartemp\SHT31-DIS-B2.5KS.Schlib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OWXLYXVM
 
 [Document13]
 DocumentPath=Hw_Lib.SchLib
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IYPHETAB
 
 [Document18]
-DocumentPath=..\..\..\..\..\..\AppData\Local\Temp\Rar$DIa30068.43933.rartemp\SHT31-DIS-B2.5KS.PcbLib
+DocumentPath=..\..\..\..\..\..\Downloads\Copy of SHT31-DIS-B2.5KS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
